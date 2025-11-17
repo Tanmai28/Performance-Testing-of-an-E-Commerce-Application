@@ -5,6 +5,9 @@ This project demonstrates **load & stress testing** of an e‑commerce applicati
 It includes execution on **AWS EC2**, automated KPI analysis, and Python-based response validation.
 
 ---
+<img width="1536" height="1024" alt="img" src="https://github.com/user-attachments/assets/cc44de18-8456-4b31-a22d-e1557ce87c2d" />
+
+---
 
 ## 🚀 Features Implemented
 ### ✅ Load Testing  
